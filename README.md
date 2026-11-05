@@ -1,6 +1,6 @@
 # 🎓 Análise de Desempenho Acadêmico e Hábitos de Estudo
 
-Este repositório contém um projeto prático de **Análise Exploratória de Dados (EDA)** em Python focado em entender como os hábitos de estudo, horas de sono, frequência escolar e o uso de tecnologias impactam no desempenho acadêmico dos estudantes.
+Mini projeto prático de **Análise Exploratória de Dados (EDA)** em Python focado em entender como os hábitos de estudo, horas de sono, frequência escolar e o uso de tecnologias impactam no desempenho acadêmico dos estudantes.
 
 ---
 
